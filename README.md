@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bipin-neupane3
-- 👀 I’m interested in Electronics, Artificial Intelligence and Neuroscience
+- 👀 I’m interested in Artificial Intelligence and Neuroscience
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Electronics and Artificial Intelligennce
-- 📫 You can reach me at instagram bpn.npne
+- 💞️ I’m looking to collaborate on Artificial Intelligennce
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
